@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kevin Sánchez</h1>
+<h1 align="center">Holo 👋, Mi nombre es Kevin Sánchez</h1>
 <h3 align="center">soy un desarrollador web apasionado</h3>
 
-- 🔭 I’m currently working on [Gpg Freight Services](https://gpgfreight.com/)
+- 🔭 Actualmente estoy trabajando en: [Gpg Freight Services](https://gpgfreight.com/)
 
-- 🌱 I’m currently learning **Django, SQL**
+- 🌱 Actualmente estoy aprendiendo: **Django, SQL**
 
-- 👯 I’m looking to collaborate on **desarrollo de páginas web desde 0 o actualización y mejoras de existentes**
+- 👯 Busco colaborar en: **desarrollo de páginas web desde 0 o actualización y mejoras de existentes**
 
-- 💬 Ask me about **Html, Css, JavaScript, PHP, Wordpress y Elementor**
+- 💬 Puedes preguntarme sobre: **Html, Css, JavaScript, PHP, Wordpress y Elementor**
 
-- 📫 How to reach me **kesxyt0717@gmail.com**
+- 📫 Puedes contactarme a traves de: **kesxyt0717@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kevin-sanchez-sist/](https://www.linkedin.com/in/kevin-sanchez-sist/)
+- 📄 Conoce mis experiencias: [https://www.linkedin.com/in/kevin-sanchez-sist/](https://www.linkedin.com/in/kevin-sanchez-sist/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
