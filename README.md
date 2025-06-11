@@ -1,4 +1,4 @@
-<h1 align="center">Holo 👋, Mi nombre es Kevin Sánchez</h1>
+<h1 align="center">Hola 👋, Mi nombre es Kevin Sánchez</h1>
 <h3 align="center">soy un desarrollador web apasionado</h3>
 
 - 🔭 Actualmente estoy trabajando en: [Gpg Freight Services](https://gpgfreight.com/)
